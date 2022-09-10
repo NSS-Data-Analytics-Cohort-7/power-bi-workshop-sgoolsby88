@@ -5,3 +5,7 @@ https://app.powerbi.com/groups/me/reports/e0cbdaea-ac3f-4e19-b5c0-68a313ec8aac/R
 # Wrapping up/ Browsing more options.
 
 https://app.powerbi.com/groups/me/reports/e0cbdaea-ac3f-4e19-b5c0-68a313ec8aac/ReportSection
+
+# Finished Powerbi Squirrel Census Dashboard
+
+https://app.powerbi.com/groups/me/reports/e0cbdaea-ac3f-4e19-b5c0-68a313ec8aac/ReportSection
